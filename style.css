@@ -1,0 +1,51 @@
+h1 {
+	font-family: verdana;
+	background-color: red;
+	width: 60%;
+}
+
+.heading {
+	background-color: yellow;
+}
+
+body {
+	background: url("background.png");
+	background-size: contain;
+}
+
+.judul {
+	position: fixed;
+	color: yellow;
+	border: 2px solid blue;
+	border-radius: 20px;
+	height: 30px;
+	width: 30px;
+	margin-top: 15px;
+}
+
+p {
+	color: yellow;
+	font-family: verdana;
+	font-size: 37px;
+	font-weight: 900;
+	text-align: justify-all;
+	vertical-align: text-top;
+}
+
+.mamam {
+	border: 5px solid yellow;
+	border-radius: 20px;
+	height: 10%;
+	width: 50%;
+	padding: 20px;
+	position: absolute;
+	top: 100px;
+	margin-left: 150px;
+	text-align: right;
+	align-content: right;
+	vertical-align: bottom;
+}
+
+.mar {
+	margin: 140px;
+}
